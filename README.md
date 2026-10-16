@@ -1,1 +1,3 @@
 # ter-rocket-challenge.
+- name: ChatGPT OpenAI CodeReview
+  uses: manjunathsb50/chatgpt-code-review-action@1.0.2
